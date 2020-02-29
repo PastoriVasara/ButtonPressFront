@@ -17,6 +17,10 @@ User can also check the leaderboards to see where they are currently placed with
 ## Challenges
 
 One of the biggest challenging firstly was organizing the code. I had such a flow state that i accidentally coded everything into a single file so it took some time refactoring the whole codebase.
+Getting the SSL certificate working on the server was a one huge issue aswell, but scouring the web long enough fixed the issue finally!
+
+## Improvements
+Currently the mobile view for the site is abysmal so the next leap would be figuring out how to make mobile friendly web applications 
 
 
 
